@@ -1,0 +1,17 @@
+
+
+img {
+    width: 90%;
+    height: auto;
+}
+
+.message {
+    text-align: center;
+}
+
+
+.message h1 {
+    font-family: 'Cookie', cursive;
+    font-size: 5em;
+    color: #ec5d6f;
+}
